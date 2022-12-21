@@ -20,7 +20,9 @@ For cleaning data I used RStudio application but dashboard I made in PowerBi App
 
 -------
 
-What I learned from this task is that to get better result it's important to clean data from fileds where data is missing,but it is also important remember that some times that you have no data is also data.
+What I learned from this task is that to get better result it's important to clean data from fileds where data is missing. But as data analitics it's better remember that sometimes no data is also data. 
+
+-------
 
 ![puzzle](https://user-images.githubusercontent.com/120565793/208900028-7558a882-aaa5-425d-a8b7-de540acdbc61.jpg)
 
